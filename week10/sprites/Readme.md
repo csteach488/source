@@ -6,5 +6,3 @@ This repository includes source code examples for Pygame *sprites* developed for
 * animating
 * basic
 * collision-detection
-  * basic
-	* better
