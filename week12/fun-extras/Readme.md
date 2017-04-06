@@ -11,6 +11,6 @@ A few examples of fun game extras we can add to a game window with Pygame.
     * check time between now and last firing
 * objectexplosions1.py
   * add some fun explosions
-        * create sprite object for explosion
-        * cycle through images to create explosion animation
-        * add explosion for each mob object collision
+    * create sprite object for explosion
+    * cycle through images to create explosion animation
+    * add explosion for each mob object collision
