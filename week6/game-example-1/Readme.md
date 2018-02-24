@@ -7,6 +7,7 @@ A few notes on building a simple 'Shoot Em Up' type game with Pygame.
 * Different types
 * Game versions
   * Sprites/Collisions
+  * Sprites/Animating
 * References
 
 #### Intro
@@ -32,6 +33,17 @@ The following versions are available:
     * better collisions and detection
         * change bounding box for player and mob sprite objects
         * change bounding box to circle, and modify radius to fit sprite objects
+
+##### Sprites/Animating
+  * v0.6 - shooter0.6.py
+    * animating sprite images
+      * rotate mob images down the screen
+      * create pristine image for rotation
+      * update rect bounding box to ensure it rotates correctly
+  * v0.7 - shooter0.7.py
+    * set random image for mob sprite object image
+      * random image from selection of image options
+      * rotate and animate each random mob sprite image
 
 #### References
 * [Shoot Em Up](https://en.wikipedia.org/wiki/Shoot_'em_up)

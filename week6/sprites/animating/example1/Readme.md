@@ -1,4 +1,4 @@
-### Readme - Pygame - Sprites - Animating
+### Readme - Pygame - Sprites - Animating - Example 1
 
 A few examples of animating sprite images in a game window with Pygame.
 
@@ -8,4 +8,3 @@ A few examples of animating sprite images in a game window with Pygame.
     * rotate mob images down the screen
     * create pristine image for rotation
     * update rect bounding box to ensure it rotates correctly
-    

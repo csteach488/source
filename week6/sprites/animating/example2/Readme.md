@@ -1,4 +1,4 @@
-### Readme - Pygame - Sprites - Animating
+### Readme - Pygame - Sprites - Animating - Example 2
 
 A few examples of animating sprite images in a game window with Pygame.
 
