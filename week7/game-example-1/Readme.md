@@ -7,7 +7,7 @@ A few notes on building a simple 'Shoot Em Up' type game with Pygame.
 * Different types
 * Game versions
   * Sprites/Basic
-  * Sprites/Graphics
+  * Sprites/Graphics 
   * Sprites/Collisions
 * References
 
@@ -45,6 +45,19 @@ The following versions are available:
       * detect projectiles from player's sprite object hitting enemy objects
       * delete projectiles and enemy objects when they collide
       * create new enemy objects for each one hit by projectile...
+
+##### Sprites/Graphics
+  * v0.4 - shooter0.4.py
+    * add graphics for sprites
+        * images for player's ship, ship's laser, and meteors
+        * set `colorkey` for rect of sprite's
+        * set background image for game window...
+
+##### Sprites/Collisions
+  * v0.5 - shooter0.5.py
+    * better collisions and detection
+        * change bounding box for player and mob sprite objects
+        * change bounding box to circle, and modify radius to fit sprite objects
 
 #### References
 * [Shoot Em Up](https://en.wikipedia.org/wiki/Shoot_'em_up)
